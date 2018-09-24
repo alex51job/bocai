@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="betdb">
+  <DataContextMoniker Name="/betdbDataContext" />
+  <nestedChildShapes>
+    <classShape Id="a80faa7c-ed94-49d5-ad62-075fc149a83e" absoluteBounds="1.375, 1.375, 2, 3.8637821451822916">
+      <DataClassMoniker Name="/betdbDataContext/BetData" />
+      <nestedChildShapes>
+        <elementListCompartment Id="199539d7-f804-46b9-8b7c-a69fda52db87" absoluteBounds="1.3900000000000001, 1.835, 1.9700000000000002, 3.3037821451822915" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
